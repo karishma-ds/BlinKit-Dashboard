@@ -28,7 +28,7 @@ This project presents an interactive Power BI dashboard designed to analyze Blin
 - Business Analytics
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/karishma-ds/BlinKit-Dashboard/blob/main/Blinkit-Dashboard.png)
 
 ## 📌 Conclusion
 The dashboard provides actionable insights to optimize inventory planning, improve outlet strategy, and enhance overall business performance.
